@@ -17,3 +17,8 @@ Composite Transforms
 
 ##Exercise 6:
 CoGroupBy for Joins
+
+##Exercise 7:
+Side Inputs - attendance count with conditions:
+   - accounts dpt employee excluding a few
+   - employee name's length between 3-10
